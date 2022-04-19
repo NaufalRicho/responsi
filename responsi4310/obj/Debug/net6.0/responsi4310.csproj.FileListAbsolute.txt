@@ -1,0 +1,15 @@
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.csproj.AssemblyReference.cache
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.GeneratedMSBuildEditorConfig.editorconfig
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.AssemblyInfoInputs.cache
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.AssemblyInfo.cs
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.csproj.CoreCompileInputs.cache
+E:\21.11.4310\responsi\responsi4310\responsi4310\bin\Debug\net6.0\responsi4310.exe
+E:\21.11.4310\responsi\responsi4310\responsi4310\bin\Debug\net6.0\responsi4310.deps.json
+E:\21.11.4310\responsi\responsi4310\responsi4310\bin\Debug\net6.0\responsi4310.runtimeconfig.json
+E:\21.11.4310\responsi\responsi4310\responsi4310\bin\Debug\net6.0\responsi4310.dll
+E:\21.11.4310\responsi\responsi4310\responsi4310\bin\Debug\net6.0\responsi4310.pdb
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.dll
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\refint\responsi4310.dll
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.pdb
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\responsi4310.genruntimeconfig.cache
+E:\21.11.4310\responsi\responsi4310\responsi4310\obj\Debug\net6.0\ref\responsi4310.dll
